@@ -1,0 +1,16 @@
+{
+  "name": "flowmance-ui",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "axios": "^1.6",
+    "react": "^18",
+    "react-dom": "^18",
+    "vite": "^7.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.2"
+  }
+}
